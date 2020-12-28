@@ -1,4 +1,4 @@
-# Housing Analysis and Plotnine Library for Visualizations
+## Housing Analysis and Plotnine Library for Visualizations
 
 Author: Jenny Ney
 
